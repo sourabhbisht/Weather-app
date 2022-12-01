@@ -1,0 +1,23 @@
+.wetherBg{
+    background: url("https://cdn.wallpapersafari.com/2/65/61LFGS.jpg");
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .heading{
+    color:white;
+    font-weight: 700;
+  }
+  .wetherResultBox{
+    margin: auto;
+    width: 50%;
+    max-width: 300px;
+  }
+  .weathorIcon{
+    margin-top: 1rem;
+    width: 50%;
+    height: 50%;
+  }
+ 
